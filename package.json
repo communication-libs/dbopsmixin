@@ -1,0 +1,26 @@
+{
+  "name": "communication_dbopsmixinlib",
+  "version": "1.0.0",
+  "description": "AllexJS lib with mixins for any DBOps consumer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/communication-libs/dbopsmixin.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "communication",
+    "dbops",
+    "mixin",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/communication-libs/dbopsmixin/issues"
+  },
+  "homepage": "https://github.com/communication-libs/dbopsmixin#readme"
+}
